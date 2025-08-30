@@ -93,7 +93,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Contact
 
 For questions about this portfolio template:
-- Email: benzmorprakop@gmail.com
+- Email: benznattaya@gmail.com
 - Phone: 0624515109
 - LinkedIn: [Nattayaporn Morprakop](https://linkedin.com/in/nattayaporn-morprakop-00744428a)
 - Line ID: benznattaya
